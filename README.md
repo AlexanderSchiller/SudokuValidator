@@ -13,8 +13,6 @@ Mit freundlichen Grüßen
 
 Alexander Schiller
 Java Consultant
-
 alexander.schiller@fdmgroup.com
- 
-MINT Minded Company 2017 
+MINT Minded Company 2017
 fdmgroup.com
