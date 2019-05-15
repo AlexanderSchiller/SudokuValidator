@@ -11,8 +11,4 @@ Bei Rückfragen können Sie sich sehr gerne an mich wenden.
 
 Mit freundlichen Grüßen
 
-Alexander Schiller
-Java Consultant
-alexander.schiller@fdmgroup.com
-MINT Minded Company 2017
-fdmgroup.com
+Alexander Schiller / Java Consultant / alexander.schiller@fdmgroup.com / MINT Minded Company 2017 / fdmgroup.com
